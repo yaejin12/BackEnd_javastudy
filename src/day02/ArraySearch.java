@@ -1,4 +1,4 @@
-package DAY02;
+package day02;
 
 public class ArraySearch {
     public static void main(String[] args) {
