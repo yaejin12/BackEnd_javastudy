@@ -26,7 +26,6 @@ public class Dog {
     }
     //생성자
     Dog(String dName){
-
         System.out.println("2번생성자 호출");
         dogName = dName;
         age =1;

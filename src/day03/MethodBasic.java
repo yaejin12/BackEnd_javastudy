@@ -15,7 +15,7 @@ public class MethodBasic {
         System.out.printf("%d x %d = %d\n", n1, n2, n1 * n2);
     }
 
-    // n개의 정수를 전달받아 그 총합을 반환하는 함수
+
     static int addAll(int... numbers) {
         int total = 0;
         for (int n : numbers) {

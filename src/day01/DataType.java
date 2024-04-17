@@ -5,7 +5,7 @@ public class DataType {
         //전부 정수를 넣는 변수
         //1byte === 8bit
         //1bit ===숫자 0이나 1을 저장할 수 있음
-       byte a= 127; //1byte
+       byte a = 127; //1byte
        short b = 32767; //2byte
        int c =2147483647; //4byte
        long d =214748364744444L; //8byte // int보다 더 높은 값을 넣으려면 L을 붙이면 된다

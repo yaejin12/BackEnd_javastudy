@@ -86,6 +86,7 @@ public class MethodQuizAnswer {
         return temp;
     }
 
+
     // foods배열에 데이터를 끝에 추가하는 함수
     static void push(String newFood) {
         String[] temp = copy(1);
@@ -93,6 +94,7 @@ public class MethodQuizAnswer {
         temp[temp.length - 1] = newFood;
         foods = temp;
     }
+
 
     // foods배열에서 특정 데이터의 인덱스를 반환
     static int indexOf(String searchFood) {

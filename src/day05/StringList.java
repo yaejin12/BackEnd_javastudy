@@ -110,7 +110,6 @@ public class StringList {
     //배열 데이터가 한개라도 있는지 //isEmpty
     public boolean isEmpty() {
        return sArr.length == 0;
-
     }
 
 
